@@ -10,11 +10,13 @@ This is a collection of repo links for side projects that I undertook for fun / 
 
 ## C# 
 
-## Javascript
+## HTML/CSS/Javascript
+### -[Blog Post App](https://github.com/ryanmckelvey/angular-blog-app)
+*A communal blog post type app developed in Agnular*
 
 ## GOLang
 
-## HTML/CSS
+
 
 
 
