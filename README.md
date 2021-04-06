@@ -9,6 +9,8 @@ This is a collection of repo links for side projects that I undertook for fun / 
 *A simple application that will check if you've pushed any commits today and remind you via email if you haven't*
 
 ## C# 
+### -[C# Web Scraper](https://github.com/ryanmckelvey/csharp-web-scraper)
+*A web scraper built using .Net Core, WebClient and HTML Agility Pack*
 
 ## HTML/CSS/Javascript
 ### -[Blog Post App](https://github.com/ryanmckelvey/angular-blog-app)
