@@ -14,7 +14,7 @@ This is a collection of repo links for side projects that I undertook for fun / 
 
 ## HTML/CSS/Javascript
 ### -[Blog Post App](https://github.com/ryanmckelvey/angular-blog-app)
-*A communal blog post type app developed in Agnular*
+*A communal blog post type app developed in Angular*
 
 ### -[Resume Site](https://github.com/ryanmckelvey/ryanmckelvey.com)
 *A resume site I designed using ThreeJS and vanilla HTML, CSS, and JS*
@@ -22,7 +22,8 @@ This is a collection of repo links for side projects that I undertook for fun / 
 ### -[Ideas Plugin](https://github.com/ryanmckelvey/ideas-plugin)
 *Quick little plugin used to quickly jot down ideas that come to me*
 
-## GOLang
+### -[Expense Tracker](https://github.com/ryanmckelvey/react-expense-tracker)
+*Expense tracker built in React*
 
 
 
